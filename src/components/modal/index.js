@@ -120,7 +120,7 @@ export default class Modal extends Component {
           >
             <span className="netlifyLogo" />
             {t("coded_by")}
-           ras
+           <p>and with me</p>
           </a>
         )}
       </div>
