@@ -1,4 +1,5 @@
 ![Netlify Identity Widget](identity.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVinzgh24%2Fnetlify-identity-widget.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FVinzgh24%2Fnetlify-identity-widget?ref=badge_shield)
 
 [![npm version](https://badge.fury.io/js/netlify-identity-widget.svg)](https://badge.fury.io/js/netlify-identity-widget)
 
@@ -208,3 +209,7 @@ localStorage.removeItem('netlifySiteURL');
 ```
 
 * See the `example` for how to integrate this widget with a react app.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVinzgh24%2Fnetlify-identity-widget.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FVinzgh24%2Fnetlify-identity-widget?ref=badge_large)
